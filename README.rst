@@ -23,6 +23,8 @@ To get started:
 
 |GPON4|
 
+Current Revision: 5.0 v2
+
 .. |Build Status| image:: https://travis-ci.org/home-assistant/home-assistant.svg?branch=master
    :target: https://travis-ci.org/home-assistant/home-assistant
 .. |Coverage Status| image:: https://img.shields.io/coveralls/home-assistant/home-assistant.svg
