@@ -24,8 +24,30 @@ To get started:
 
 |GPON4|
 
+The case has been modified with cutouts for:
+   
+   GPON Puck/Screen
+   
+   Fiber Cable
+   
+   Power Cable
+   
+   Single Keystone Jack (For Output)
+
 Current Revision: 5.0 v2
 
+In Progress:
+
+   Currently finalizing the GRID Fiber logo and branding. 
+
+Changelog:
+
+   V 1.0 - Initial Case File Only
+   V 2.0 - Case file with GPON cutout 
+   V3.0 - Case File with GPON cutout and power cable cutout
+   V 4.0 - Case file with GPON cutout, power cable cutout, and fiber cutout
+   V 5.0 - Case file with GPON coutout, power cable cutout, fiber cutout, keystone cutout, and _temporary_ graphic. 
+   
 .. |Build Status| image:: https://travis-ci.org/home-assistant/home-assistant.svg?branch=master
    :target: https://travis-ci.org/home-assistant/home-assistant
 .. |Coverage Status| image:: https://img.shields.io/coveralls/home-assistant/home-assistant.svg
