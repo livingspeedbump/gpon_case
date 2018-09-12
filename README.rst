@@ -15,15 +15,7 @@ To get started:
 .. code:: bash
 
     git pull https://github.com/livingspeedbump/gpon_case.git
-
-|GPON1|
-
-|GPON2|
-
-|GPON3|
-
-|GPON4|
-
+    
 The case has been modified with cutouts for:
    
    GPON Puck/Screen
@@ -41,10 +33,23 @@ In Progress:
 Changelog:
 
    V 1.0 - Initial Case File Only
+   
    V 2.0 - Case file with GPON cutout 
+   
    V3.0 - Case File with GPON cutout and power cable cutout
+   
    V 4.0 - Case file with GPON cutout, power cable cutout, and fiber cutout
+   
    V 5.0 - Case file with GPON coutout, power cable cutout, fiber cutout, keystone cutout, and _temporary_ graphic. 
+
+|GPON1|
+
+|GPON2|
+
+|GPON3|
+
+|GPON4|
+
    
 .. |Build Status| image:: https://travis-ci.org/home-assistant/home-assistant.svg?branch=master
    :target: https://travis-ci.org/home-assistant/home-assistant
