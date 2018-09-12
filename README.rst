@@ -3,11 +3,12 @@ GPON CASE |Build Status| |Coverage Status|
 
 This is a GPON case designed for Summit Technology, LLC. This case is designed to fit these specific parts:
 
-    Ubiquiti Nano G <https://www.ubnt.com/ufiber/ufiber-nano-g/>
+   
+    `Ubiquiti Nano G <https://www.ubnt.com/ufiber/ufiber-nano-g/>`__
     
-    Ubiquiti 24v POE Power Supply <https://www.ubnt.com/accessories/poe-adapters/>
+    `Ubiquiti 24v POE Power Supply <https://www.ubnt.com/accessories/poe-adapters/>`__
     
-    PolyCase DC-57F <https://www.polycase.com/dc-57f>
+    `PolyCase DC-57F <https://www.polycase.com/dc-57f>`__
 
 To get started:
 
