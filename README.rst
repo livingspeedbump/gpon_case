@@ -1,14 +1,19 @@
-GPON CASE |Build Status| |Coverage Status| |Chat Status|
+GPON CASE |Build Status| |Coverage Status| 
 =============================================================
 
-Home Assistant is a home automation platform running on Python 3. It is able to track and control all devices at home and offer a platform for automating control.
+This is a GPON case designed for Summit Technology, LLC. This case is designed to fit these specific parts:
+
+    Ubiquiti Nano G <https://www.ubnt.com/ufiber/ufiber-nano-g/>
+    
+    Ubiquiti 24v POE Power Supply <https://www.ubnt.com/accessories/poe-adapters/>
+    
+    PolyCase DC-57F <https://www.polycase.com/dc-57f>
 
 To get started:
 
 .. code:: bash
 
-    python3 -m pip install homeassistant
-    hass --open-ui
+    git pull https://github.com/livingspeedbump/gpon_case.git
 
 |GPON1|
 
