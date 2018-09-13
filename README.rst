@@ -1,6 +1,9 @@
 GPON CASE |Build Status| |Coverage Status| Current Revision: 5.0 v2
 =============================================================
 
+|Logo|
+
+
 This is a GPON case designed for Summit Technology, LLC. This case is designed to fit these specific parts:
 
    
@@ -59,3 +62,4 @@ Changelog:
 .. |GPON2| image:: https://github.com/livingspeedbump/gpon_case/blob/master/docs/photos/GPON2.png
 .. |GPON3| image:: https://github.com/livingspeedbump/gpon_case/blob/master/docs/photos/GPON3.png
 .. |GPON4| image:: https://github.com/livingspeedbump/gpon_case/blob/master/docs/photos/GPON4.png
+.. |Logo| Image:: https://github.com/livingspeedbump/gpon_case/blob/master/docs/photos/GRIDFiberLogov1.0.png
