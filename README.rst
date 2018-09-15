@@ -31,7 +31,7 @@ The case has been modified with cutouts for:
 
 In Progress:
 
-   Currently finalizing the GRID Fiber logo and branding. 
+   Currently finalizing the GRID Fiber logo and branding. GRID Fiber logo is ready to get approval from CEO. 
 
 Changelog:
 
