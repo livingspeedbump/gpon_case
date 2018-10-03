@@ -1,10 +1,10 @@
-GPON CASE |Build Status| |Coverage Status| Current Revision: 5.0 v2
+GPON CASE |Build Status| |Coverage Status| Current Revision: Prototype1.0
 =============================================================
 
 |Logo|
 
 
-This is a GPON case designed for Summit Technology, LLC. This case is designed to fit these specific parts:
+This is a GPON case designed specifically for Summit Technology, LLC. This case is designed to fit these specific parts:
 
    
     `Ubiquiti Nano G <https://www.ubnt.com/ufiber/ufiber-nano-g/>`__
@@ -31,20 +31,25 @@ The case has been modified with cutouts for:
 
 In Progress:
 
-   Currently finalizing the GRID Fiber logo and branding. GRID Fiber logo is ready to get approval from CEO. 
+   9/27 - Currently finalizing the GRID Fiber logo and branding. GRID Fiber logo is ready to get approval from CEO. 
+   10/3 - Manufacturing files from Polycase approved, awaiting manufacturing and shipping from vendor. 
 
-Changelog:
+Fusion 360 Changelog:
 
    V 1.0 - Initial Case File Only
    
    V 2.0 - Case file with GPON cutout 
    
-   V3.0 - Case File with GPON cutout and power cable cutout
+   V 3.0 - Case File with GPON cutout and power cable cutout
    
    V 4.0 - Case file with GPON cutout, power cable cutout, and fiber cutout
    
    V 5.0 - Case file with GPON coutout, power cable cutout, fiber cutout, keystone cutout, and _temporary_ graphic. 
+   
+Product Changelog:
 
+   Prototype V 1.0 - Approved for manufacturing on 10/3/18
+   
 |GPON1|
 
 |GPON2|
