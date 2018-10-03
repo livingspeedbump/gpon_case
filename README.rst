@@ -32,6 +32,7 @@ The case has been modified with cutouts for:
 In Progress:
 
    9/27 - Currently finalizing the GRID Fiber logo and branding. GRID Fiber logo is ready to get approval from CEO. 
+   
    10/3 - Manufacturing files from Polycase approved, awaiting manufacturing and shipping from vendor. 
 
 Fusion 360 Changelog:
