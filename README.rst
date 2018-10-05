@@ -1,4 +1,4 @@
-GPON CASE |Build Status| |Coverage Status| Current Revision: Prototype1.0
+GPON CASE |Build Status| |Coverage Status| Current Revision: Prototype1V.5
 =============================================================
 
 |Logo|
