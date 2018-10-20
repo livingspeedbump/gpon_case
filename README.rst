@@ -31,6 +31,8 @@ The case has been modified with cutouts for:
 
 In Progress:
 
+   10/18  - Prototype V 1.5 arrived and was mostly ready for production. Proposed changes will be in the Wiki under the Production 1.0 page. 
+    
    9/27 - Currently finalizing the GRID Fiber logo and branding. GRID Fiber logo is ready to get approval from CEO. 
    
    10/3 - Manufacturing files from Polycase approved, awaiting manufacturing and shipping from vendor. 
@@ -50,6 +52,7 @@ Fusion 360 Changelog:
 Product Changelog:
 
    Prototype V 1.0 - Approved for manufacturing on 10/3/18
+   Prototype V 1.5 - Ordered and approved on 10/18
    
 |GPON1|
 
